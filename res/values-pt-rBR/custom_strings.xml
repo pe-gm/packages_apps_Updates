@@ -96,4 +96,11 @@
     <string name="forum_info_title">Fórum</string>
     <string name="forum_info_summary">Ver posts do fórum</string>
     <string name="error_open_url">Falha ao abrir a URL no navegador</string>
+    <string name="local_update_title">Atualização local</string>
+    <string name="local_update_summary">Aplicar atualização a partir do armazenamento local</string>
+    <string name="local_update_import_success">Você escolheu:\n%1$s\n\nDeseja instalá-lo?</string>
+    <string name="local_update_import_disabled">Não é possível importar a atualização local ao baixar ou instalar a atualização</string>
+    <string name="local_update_import_failure">Falha ao importar atualização local</string>
+    <string name="local_update_import_install">Instalar</string>
+    <string name="local_update_import_progress">Importando atualização local\u2026</string>
 </resources>
